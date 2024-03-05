@@ -112,3 +112,16 @@ console.log(myArray);
 
 console.log(typeof myObject);
 console.log(typeof myArray);
+// ============================= toan tu =============================
+/**
+ *
+ * ===
+ * !==
+ */
+
+var number1 = 1;
+var number2 = "1";
+console.log(number1 == number2); // output = true
+console.log(number1 === number2); // output = false
+console.log(number1 != number2); // output = false
+console.log(number1 !== number2); // output = true
