@@ -90,3 +90,5 @@ console.log(f.split(""));
 
 const myStringName = "Trọng Liêm";
 console.log(myStringName.charAt(4)); // lấy vị trí
+
+// https://www.youtube.com/watch?v=varb35t44v0&list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5&index=22
